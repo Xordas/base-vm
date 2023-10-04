@@ -1,0 +1,5 @@
+1: When in Ubuntu right click on the current background and click "Desktop Preferences" 
+2: After doing that click on the current wallpaper
+3: In the file explorer window click on the folder named "Workspace" then go into the folder called "wallpapers"
+4: Select your desired wallpaper then click "Open"
+After doing those steps you can exit out of desktop preferences and see your new wallpaper!
