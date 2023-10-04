@@ -1,7 +1,7 @@
 ![image](https://user-images.githubusercontent.com/97373683/166140965-d63970e1-e4e5-41d1-b0e0-5833ba3b1ab9.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chromebook-VM
-### Initially made by jun-ro and expanded upon by fowntain
+### Initially made by jun-ro and expanded upon by fowntain slightly edited by Xordas
 
 
 ## Initial Setup
@@ -35,7 +35,7 @@ Now follow the instructions below.
 
 # Copy and paste this line in the terminal:
 ```
-docker run --rm -d -p 3443:80 -v $PWD:/workspace:rw -e USER=username -e PASSWORD=password -e RESOLUTION=1366x650 --name ubuntu-novnc4 fredblgr/ubuntu-novnc:20.04
+docker run --rm -d -p 3443:80 -v $PWD:/workspace:rw -e USER=username -e PASSWORD=password -e RESOLUTION=1366x768 --name ubuntu-novnc4 fredblgr/ubuntu-novnc:20.04
 ```
 ### Like this: 
 ![Gif](https://gyazo.com/a8d59c59501b3f04d2fba0344b0c408d.gif)
