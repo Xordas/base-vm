@@ -14,7 +14,7 @@
 2. Fork this repository
 3. Click the green code dropdown and click the codespaces tab
 4. Click the + icon
-
+Be sure to check your codespace every 20-30 minutes to keep it online!
 Now follow the instructions below.
 ```
 
