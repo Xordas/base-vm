@@ -64,8 +64,9 @@ This VM is not perfect and can have major issues such as running a DE(Desktop En
 
 # Credits:
 https://github.com/jun-ro/Chromebook-VM
+https://github.com/fowntain/base-vm
 - Initial idea and tutorial
-I expanded on this tutorial so I didn't completely rip it
+I expanded on this tutorial and added extra things to both of them
 
 
 # Bonus:
