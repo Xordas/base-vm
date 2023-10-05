@@ -63,6 +63,7 @@ This VM is not perfect and can have major issues such as running a DE(Desktop En
 <br>
 
 # Credits:
+https://hub.docker.com/r/fredblgr/ubuntu-novnc
 https://github.com/jun-ro/Chromebook-VM
 https://github.com/fowntain/base-vm
 - Initial idea and tutorial
