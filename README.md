@@ -47,10 +47,11 @@ Copy this lines:
 (these will take a while)
 
 ```
-sudo apt-get update && sudo apt-get upgrade && sudo apt-get install neovim && sudo apt-get install terminator && sudo apt-get install neofetch
+sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install neovim -y && sudo apt-get install terminator -y && sudo apt-get install neofetch -y && sudo apt install ubuntu-software -y
+
 ```
 
-### That should get you a basic text editor with a better terminal setup.
+### That should get you a basic text editor with a better terminal setup along with other helpful tools.
 <br>
 
 
