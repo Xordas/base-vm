@@ -45,7 +45,7 @@ and enjoy!
 
 ### First you want to install everything needed.
 Copy this line:
-(these will take a while)
+(it will take a while)
 
 ```
 sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install neovim -y && sudo apt-get install terminator -y && sudo apt-get install neofetch -y && sudo apt install ubuntu-software -y && sudo apt-get install gnome-system-monitor -y
