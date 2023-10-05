@@ -43,7 +43,7 @@ and enjoy!
 # For Ubuntu/Linux Beginners
 
 ### First you want to install everything needed.
-Copy this lines:
+Copy this line:
 (these will take a while)
 
 ```
@@ -51,7 +51,7 @@ sudo apt-get update -y && sudo apt-get upgrade -y && sudo apt-get install neovim
 
 ```
 
-### That should get you a basic text editor with a better terminal setup along with other helpful tools.
+### That will install Terminator, Neofetch, Neovim, and Ubuntu software tools. All of those are very helpful.
 <br>
 
 
