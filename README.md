@@ -43,14 +43,11 @@ and enjoy!
 # For Ubuntu/Linux Beginners
 
 ### First you want to install everything needed.
-Copy these lines:
+Copy this lines:
 (these will take a while)
 
 ```
-sudo apt-get update
-sudo apt-get upgrade
-sudo apt-get install neovim
-sudo apt-get install terminator
+sudo apt-get update && sudo apt-get upgrade && sudo apt-get install neovim && sudo apt-get install terminator && sudo apt-get install neofetch
 ```
 
 ### That should get you a basic text editor with a better terminal setup.
