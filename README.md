@@ -67,7 +67,7 @@ https://hub.docker.com/r/fredblgr/ubuntu-novnc
 https://github.com/jun-ro/Chromebook-VM
 https://github.com/fowntain/base-vm
 - Initial idea and tutorial
-I expanded on this tutorial and added extra things to both of them
+I expanded on this tutorial and added extra things to both of them.
 
 
 # Bonus:
