@@ -56,9 +56,8 @@ and enjoy!
 Copy these lines:
 
 ```
-sudo apt-get update
-sudo apt-get install neovim
-sudo apt-get install terminator
+sudo apt-get update&&upgrade
+sudo apt-get install neovim&&terminator
 ```
 
 ### That should get you a basic text editor with a better terminal setup.
