@@ -56,7 +56,8 @@ and enjoy!
 Copy these lines:
 
 ```
-sudo apt-get update&&upgrade
+sudo apt-get update
+sudo apt-get upgrade
 sudo apt-get install neovim&&terminator
 ```
 
