@@ -1,22 +1,12 @@
 ![image](https://user-images.githubusercontent.com/97373683/166140965-d63970e1-e4e5-41d1-b0e0-5833ba3b1ab9.png)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Chromebook-VM
-### Initially made by jun-ro and expanded upon by fowntain and slightly edited by Xordas
+### Initially made by jun-ro and expanded upon by fowntain and edited by Xordas
 
 
 ## Initial Setup
 ***You need a github account for this.***
----------------
-**GitPod**
 
-```
-1. First go to https://gitpod.io and sign in with github
-
-
-2. Then make a workspace with a new repo (perferably an existing one in your github account.)
-
-Now follow the instructions below.
-```
 ---------------
 **GitHub Codespaces**
 ```
@@ -54,11 +44,13 @@ and enjoy!
 
 ### First you want to install everything needed.
 Copy these lines:
+(these will take a while)
 
 ```
 sudo apt-get update
 sudo apt-get upgrade
-sudo apt-get install neovim&&terminator
+sudo apt-get install neovim
+sudo apt-get install terminator
 ```
 
 ### That should get you a basic text editor with a better terminal setup.
