@@ -44,7 +44,7 @@ and enjoy!
 # For Ubuntu/Linux Beginners
 
 ### First you want to install everything needed.
-Copy this line:
+Copy this line into Linux's terminal:
 (it will take a while)
 
 ```
